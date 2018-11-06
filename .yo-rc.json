@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "PaymentRequestTracker",
+    "packageName": "com.bc.payment",
+    "packageFolder": "com/bc/payment",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mssql",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "NmZjNjVkMDQzMzI2OTM1NGIyZGFkZTExZjUzYzFhYzYwODE4ODFjMzliMTI2YWVkNmZiZGRkYjJlNjhhMjk1ZDQ3OWE5NDRlMGIxOGZmYzgwMTcxMjAyZDBiYjQ4ODQxMmU0N2E2NDYwOWIyNTJkMGVkZjMzNGUzNGUyZjQ3OGY="
+  },
+  "git-provider": "GitHub",
+  "git-company": "DarrenClarkBC",
+  "repository-name": "payment-request-tracker"
+}
